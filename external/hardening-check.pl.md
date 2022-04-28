@@ -1,3 +1,4 @@
+```perl
 #!/data/data/com.termux/files/usr/bin/perl
 # Report the hardening characterists of a set of binaries.
 # Copyright (C) 2009-2013 Kees Cook <kees@debian.org>
@@ -578,3 +579,4 @@ Free Software Foundation; version 2 or later.
 L<gcc(1)>, L<hardening-wrapper(1)>
 
 =cut
+```
