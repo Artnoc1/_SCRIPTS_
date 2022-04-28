@@ -1,3 +1,4 @@
+```python
 #!/usr/bin/env python
 #
 # smem - a tool for meaningful memory reporting
@@ -687,3 +688,4 @@ except IOError, e:
         pass
 except KeyboardInterrupt:
     pass
+```
