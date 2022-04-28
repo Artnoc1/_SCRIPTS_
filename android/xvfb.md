@@ -2,7 +2,6 @@
 
 #description:
 #starts virtual framebuffer process to enable server
-#
 #Source function library.
 #. /etc/init.d/functions
 XVFB_OUTPUT=/tmp/Xvfb.out
