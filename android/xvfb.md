@@ -1,3 +1,4 @@
+```bash
 #!/usr/bin/bash
 
 # description:
@@ -45,3 +46,4 @@ exit 1
 ;;
 esac
 exit $?
+```
