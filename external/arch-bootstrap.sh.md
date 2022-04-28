@@ -1,3 +1,4 @@
+```bash
 #!/bin/bash
 #
 # arch-bootstrap: Bootstrap a base Arch Linux system using any GNU distribution.
@@ -212,3 +213,4 @@ main() {
 }
 
 main "$@"
+```
