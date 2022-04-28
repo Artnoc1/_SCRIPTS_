@@ -1,16 +1,13 @@
 #!/usr/bin/bash
 
-# description: starts virtual framebuffer process to
-# enable server
-#
-#
-#
-# Source function library.
-#.  /etc/init.d/functions
+#description:
+#starts virtual framebuffer process to enable server
+###
+#Source function library.
+#. /etc/init.d/functions
 XVFB_OUTPUT=/tmp/Xvfb.out
 XVFB=/usr/bin/Xvfb
-XVFB_OPTIONS=":5 -screen 0 1024x720x24 -fbdir 
-/var/run"
+XVFB_OPTIONS=":5 -screen 0 1024x720x24 -fbdir /var/run"
 
 start()  {
 echo -n "Starting : X Virtual Frame Buffer "
