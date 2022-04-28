@@ -1,3 +1,4 @@
+```python
 #!/usr/bin/env python2
 
 """Simple HTTP Server With Upload.
@@ -292,3 +293,4 @@ def test(HandlerClass = SimpleHTTPRequestHandler,
 
 if __name__ == '__main__':
     test()
+```
