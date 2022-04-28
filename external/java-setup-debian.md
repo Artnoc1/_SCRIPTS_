@@ -1,3 +1,4 @@
+```bash
 #!/bin/bash
 
 
@@ -18,3 +19,4 @@ printf "Add this to your .profile, .bashrc ,zshrc.... whatever\n\n\n"
 printf "JAVA_HOME=$JAVA_INSTALL_PATH\n"
 printf 'PATH=$PATH:$JAVA_HOME/bin\n'
 printf 'export JAVA_HOME\n'
+```
