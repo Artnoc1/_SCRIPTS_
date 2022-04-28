@@ -1,3 +1,4 @@
+```
 #!/usr/bin/python
 #
 # ketchup v0.9-pre "self-contained corner case"
@@ -588,3 +589,4 @@ else:
         rename_dir(b)
 
     
+```
