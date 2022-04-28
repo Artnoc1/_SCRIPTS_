@@ -1,3 +1,4 @@
+```bash
 #!/bin/bash
 
 # URL of the Launchpad mirror list
@@ -22,3 +23,4 @@ for url in $(curl -s $MIRROR_LIST | grep -Po 'http://.*(?=">http</a>)'); do
   # if successful, output the URL
   [ $? -eq "0" ] && echo "FOUND: $url"
 done
+```
