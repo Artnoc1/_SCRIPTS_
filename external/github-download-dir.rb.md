@@ -1,3 +1,4 @@
+```rb
 class GitHub
   class << self
     def download_file_to_string(github_token, setup={}, raw=true, link=nil)
@@ -64,3 +65,4 @@ end
 
 # Usage:
 GitHub.download_directory('my github token', {'repo_name' => 'Test', 'repo_owner' => 'foobar', 'path' => '/foo'}, 'here_please')
+```
