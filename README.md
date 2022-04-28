@@ -1,12 +1,12 @@
-# scripts
+# scripts  
 
-Shell scripts and other stuff.
+Shell scripts and other stuff.  
 
 Use `scm` to install (symlink) scripts to your "$PATH" 
 `scm` hasn't been written yet.  
 
 A rough sketch of how it supposed to works.  
-A comment below the shebang line like this.   
+A comment below the shebang line like this.  
 ```
 #!/bin/bash
 # export=short_name group=group_name
@@ -23,10 +23,9 @@ short_name as shnm
 group_name
 ```
 
-
-## android
+## android  
 Scripts used only on android. 
 
-## external
+## external  
 External scripts, downloaded from the internet.
 
