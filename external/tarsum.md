@@ -1,3 +1,4 @@
+```
 #!/usr/bin/env python
  
 # Copyright (C) 2008-2009 by Guy Rutenberg
@@ -116,3 +117,4 @@ if __name__ == "__main__":
     main()
  
 # vim: ai ts=4 sts=4 et sw=4
+```
